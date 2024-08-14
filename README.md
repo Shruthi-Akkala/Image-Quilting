@@ -1,5 +1,6 @@
 # Image-Quilting
 To perform Texture Synthesis use: 
+
 python3 main.py --synthesis -i <texture_img> -b <block_size> -o <overlap_size> -t <tolerance>
 
 To perform Texture Transfer use: 
